@@ -5,8 +5,8 @@
 ## Time to prepare: 15 minutes
 
 ## Ingredients:
-- 8 small corn or flour tortillas (corn is better)
-- 8 large eggs, either scrambled or fried (defininely scramble) 
+- 8 small corn or flour tortillas 
+- 8 large eggs, either scrambled or fried 
 - 1 can of refried beans or make them homemade! (homemade is the way to go)
 - 2 avocados, peeled, pitted and sliced
 - Your choice of salsa: red, green, or pico de gallo (the spicier the better) 
@@ -28,6 +28,6 @@ Bowls to hold ingredients
 4. Serve immediately and enjoy!
 
 ### Notes:
-*To make scrambled eggs, whisk the eggs together in a mixing bowl until they are smooth.  (I also like to add in a generous splash of milk to make them extra creamy.)  Then heat 1 tablespoon oil or butter in a non-stick skillet over medium-low heat.  Add the eggs and cook — stirring often with a wooden spoon or rubber spatula — until they are scrambled to your desired degree of doneness.
+*To make scrambled eggs, whisk the eggs together in a mixing bowl until they are smooth.  (I also like to add in a generous splash of milk and spoon of butter to make them extra creamy.)  Then heat 1 tablespoon oil or butter in a non-stick skillet over medium-low heat.  Add the eggs and cook — stirring often with a wooden spoon or rubber spatula — until they are scrambled to your desired degree of doneness.
 
 ### Codemates #
