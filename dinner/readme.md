@@ -1,4 +1,4 @@
-# Easiest Dinner Ever
+# Easiest Dinner Ever🍝🍝🍝
 
 ## Servings: 4
 
