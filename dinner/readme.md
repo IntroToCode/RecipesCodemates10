@@ -1,22 +1,30 @@
 # Easiest Dinner Ever🍝🍝🍝
 
-## Servings: 4
+## Servings: 
+4
 
-## Time to prepare: 15 minutes
+## Time to prepare: 
+15 minutes
 
-## Ingredients: Pasta sauce, spaghetti, parmesan cheese
+## Ingredients: 
+3 cups marinara sauce 
+1lb of spaghetti, cooked
+1/2 cup fresh basil, chopped
+2 tbsp parmesan cheese
 
 
-## Equipment needed: pot
-
+## Equipment needed: 
+Pot
+Cutting board
+Measuring cups
 
 ## Steps for preparation:
 
 1. Boil water in a pan
-2. Add spaghetti and boil for 6-8 minutes
+2. Add spaghetti and boil for 6-8 minutes or until tender
 3. Drain water from pan
-4. Add sauce
-5. Top with cheese
+4. Add sauce & mix ingredients together
+5. Top with cheese, basil
 
 ### Notes:
 
