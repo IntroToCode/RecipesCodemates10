@@ -1,4 +1,4 @@
-# Breakfast Taco Recipe 
+# Breakfast Taco Recipe
 
 ## Servings: 8
 
@@ -15,8 +15,8 @@
 
 ## Equipment needed:
 Saucepan
-Non-stick sauté pan
-Bowls to hold ingredients 
+Non-stick sauté pan (if you only have a sticky pan, when finished, fill it with water and leave in your sink for you roommate to clean)
+Bowls to hold ingredients (make sure the bowls don't have holes in them or they won't work)
 
 ## Steps for preparation:
 1. Heat the refried beans in a large saucepan according to recipe instructions.
