@@ -5,7 +5,7 @@
 ## Time to prepare: 20 mins
 
 ## Ingredients:
-- 1 loaf of whole grain bread, sliced
+- 1 loaf of white grain bread, sliced
 - 2 lbs of turkey, sliced
 - 12 strips of bacon, cooked
 - lettuce, torn into pieces
