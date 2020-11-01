@@ -1,4 +1,4 @@
-# Breakfast Taco Recipe
+# Breakfast Taco Recipe 🌮🌮🌮
 
 ## Servings: 8
 
