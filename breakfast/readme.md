@@ -30,4 +30,6 @@ Bowls to hold ingredients (make sure the bowls don't have holes in them or they 
 ### Notes:
 *To make scrambled eggs, whisk the eggs together in a mixing bowl until they are smooth.  (I also like to add in a generous splash of milk and spoon of butter to make them extra creamy.)  Then heat 1 tablespoon oil or butter in a non-stick skillet over medium-low heat.  Add the eggs and cook — stirring often with a wooden spoon or rubber spatula — until they are scrambled to your desired degree of doneness.
 
+*With any leftovers, you can also scramble them into a frittata or omlette!
+
 ### Codemates #
