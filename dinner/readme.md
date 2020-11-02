@@ -27,7 +27,7 @@ Measuring cups
 5. Top with cheese, basil
 
 ### Notes:
-
+* For al dente, don't cook as long and only boil pasta for 5 minutes! 
 
 
 ### Codemates #
