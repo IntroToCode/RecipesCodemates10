@@ -11,6 +11,7 @@
 1lb of spaghetti, cooked
 1/2 cup fresh basil, chopped
 2 tbsp parmesan cheese
+Butter!
 
 
 ## Equipment needed: 
